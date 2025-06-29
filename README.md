@@ -5,7 +5,7 @@ This Tableau project highlights the performance of various factors that wield si
 
 
 
-![Alt text](https://github.com/AmrHamouda/British-Airway-Dashboard/blob/ec8baa65992b0c9d6c9cd7552ac1f9bc9e9a2ea5/DataSet/Dashboard.png)
+![Alt text](https://github.com/AmrHamouda/British-Airway-Dashboard/blob/329ce395020ab9c18c75a4e786362ace27efad6f/DataSet/Dashboard%20image.png)
 
 
 
